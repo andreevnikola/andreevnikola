@@ -5,7 +5,8 @@
 - Graduated as an **Angular Developer** at **Software University**. 💻
 - My hobbies are *Snowboarding*, *Skateboarding*, *MTB*, *Hiking* and of course ***Programming***.
 - Going in school at *High School of Mathematics “Akademik Kiril Popov”, Plovdiv, majoring in **System Programming**.* 🎒
-- **2th** place at **Softuniada 2021**. 🥈
+- **2th** place at **Softuniada 2022** at category **Web Projects**. 🥈
+- **2th** place at **NETIT 2022**. 🥈
 ### My Goal? Get a job as a DEVELOPER!
 **KNOWING:**  
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" height="50px" title="HTML" alt="HTML" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="50px" title="CSS" alt="CSS" />&nbsp;
