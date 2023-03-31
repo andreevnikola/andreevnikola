@@ -15,10 +15,11 @@
 <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="50px" title="ANGULAR" alt="ANGULAR" />&nbsp;
 <img src="https://yt3.googleusercontent.com/B8OVfruPK5Zls5beHf_7a-kQ0Lo57DcoHxb-tp0skMeAGVZMM1EqMsFA0wyEl91N10z2Bc19X1w=s900-c-k-c0x00ffffff-no-rj" height="50px" title="SolidJS" alt="SolidJS" />&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" height="50px" title="SVELTE" alt="SVELTE" />&nbsp;
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="50px" title="NODEJS" alt="NODEJS" />&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="50px" title="NODEJS" alt="NODEJS" />&nbsp;
 <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" height="50px" title="MONGODB" alt="MONGODB" />&nbsp;
 <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" height="50px" title="SQL" alt="SQL" />&nbsp;
-<img src="https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png" height="50px" title="GOLANG" alt="GOLANG" />&nbsp;
+<img src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" height="50px" title="GOLANG" alt="GOLANG" />&nbsp;
+<img src="https://trpc.io/img/logo.svg" height="50px" title="TRPC" alt="TRPC" />&nbsp;
 
 ### Contact ME:  
 [<img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/06/white-instagram-logo-png-transparent.png" alt="My instagram" title="My instagram" height="12px" 
