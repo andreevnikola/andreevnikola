@@ -19,7 +19,6 @@
 <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" height="50px" title="MONGODB" alt="MONGODB" />&nbsp;
 <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" height="50px" title="SQL" alt="SQL" />&nbsp;
 <img src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png" height="50px" title="GOLANG" alt="GOLANG" />&nbsp;
-<img src="https://trpc.io/img/logo.svg" height="50px" title="TRPC" alt="TRPC" />&nbsp;
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="50px" title="AVA" alt="Java" />&nbsp;
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*A-EA3uxS16IhYDrr0dQ-6w.png" height="50px" title="AVA" alt="Java" />&nbsp;
 
