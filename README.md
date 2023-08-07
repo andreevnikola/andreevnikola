@@ -7,7 +7,7 @@
 - Going in school at *High School of Mathematics “Akademik Kiril Popov”, Plovdiv, majoring in **System Programming**.* 🎒
 - **2th** place at **Softuniada 2022** at category **Web Projects**. 🥈
 - **2th** place at **NETIT 2021**. 🥈
-- **1th** place at the "Аз мога тук и сега"'s national summer academy. 🥇
+- **1th** place at the "Аз мога тук и сега"'s national summer academy 2022. 🥇
 - **Tutoring** young minds about the basics of programming at **Codespark** academy. 👨‍🏫
 ### My Goal? Get a job as a DEVELOPER!
 **KNOWING:**  
