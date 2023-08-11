@@ -32,6 +32,7 @@
 <img src="https://camo.githubusercontent.com/f0536cffc1b64c14a9d730ee7f005cb29df2831e77c3f125222714e119969df4/68747470733a2f2f696d616765732e636c65726b2e636f6d2f7374617469632f6c6f676f2d6c696768742d6d6f64652d343030783430302e706e67" height="50px" title="CLERK" alt="CLERK" />&nbsp;
 <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" height="50px" title="Tailwind" alt="Tailwind" />&nbsp;
 <img src="https://seeklogo.com/images/D/daisyui-logo-D369F9B1BF-seeklogo.com.png" height="50px" title="DaisyUI" alt="DaisyUI" />&nbsp;
+<img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" height="50px" title="PrismaORM" alt="PrismaORM" />&nbsp;
 
 ### Contact ME:  
 [<img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/06/white-instagram-logo-png-transparent.png" alt="My instagram" title="My instagram" height="12px" 
