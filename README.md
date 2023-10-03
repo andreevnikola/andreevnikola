@@ -15,7 +15,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50px" title="JS" alt="JS" /> &nbsp;
 <img src="https://miro.medium.com/max/512/1*7Zh4wEiM_3t-6XPCAfC7aA.png" height="50px" title="TS" alt="TS" />&nbsp;
 <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" height="50px" title="ANGULAR" alt="ANGULAR" />&nbsp;
-<img src="https://yt3.googleusercontent.com/B8OVfruPK5Zls5beHf_7a-kQ0Lo57DcoHxb-tp0skMeAGVZMM1EqMsFA0wyEl91N10z2Bc19X1w=s900-c-k-c0x00ffffff-no-rj" height="50px" title="SolidJS" alt="SolidJS" />&nbsp;
 <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="50px" title="NODEJS" alt="NODEJS" />&nbsp;
 <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" height="50px" title="MONGODB" alt="MONGODB" />&nbsp;
 <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" height="50px" title="SQL" alt="SQL" />&nbsp;
@@ -33,6 +32,7 @@
 <img src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4" height="50px" title="Tailwind" alt="Tailwind" />&nbsp;
 <img src="https://seeklogo.com/images/D/daisyui-logo-D369F9B1BF-seeklogo.com.png" height="50px" title="DaisyUI" alt="DaisyUI" />&nbsp;
 <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/287/square_480/prismaHD.png" height="50px" title="PrismaORM" alt="PrismaORM" />&nbsp;
+<img src="https://authjs.dev/img/adapters/drizzle-orm.png" height="50px" title="DrizzleORM" alt="DrizzleORM" />&nbsp;
 
 ### Contact ME:  
 [<img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/06/white-instagram-logo-png-transparent.png" alt="My instagram" title="My instagram" height="12px" 
