@@ -1,14 +1,16 @@
 # Hi! I am Nikola Andreev.
 ### What about me 👷‍♂️!
-- **14** years “*old*” 👦
+- **15** years “*old*” 👦
 - Went to **Codespark** academy at Plovdiv. 📚
 - Graduated as an **Angular Developer** at **Software University** with a perfect score. 💻
 - My hobbies are *Snowboarding*, *Skateboarding*, *MTB*, *Hiking* and of course ***Programming***.
 - Going in school at *High School of Mathematics “Akademik Kiril Popov”, Plovdiv, majoring in **System Programming**.* 🎒
+- **1th** place at **SoftUni Fest** 2023. 🥇
+- **1th** place at the "Аз мога тук и сега"'s national summer academy 2022. 🥇
 - **2th** place at **Softuniada 2022** at category **Web Projects**. 🥈
 - **2th** place at **NETIT 2021**. 🥈
-- **1th** place at the "Аз мога тук и сега"'s national summer academy 2022. 🥇
 - **Tutoring** young minds about the basics of programming at **Codespark** academy. 👨‍🏫
+- **Freelancing** in **Fiver**. ⚒
 ### My Goal? Get a job as a DEVELOPER!
 **KNOWING:**  
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" height="50px" title="HTML" alt="HTML" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" height="50px" title="CSS" alt="CSS" />&nbsp;
